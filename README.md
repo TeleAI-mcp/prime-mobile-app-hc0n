@@ -1,2 +1,3 @@
-# prime-mobile-app-hc0n
-A mobile application for modern development workflows
+# Prime Mobile App Hc0N
+
+A mobile application for modern development workflows.
